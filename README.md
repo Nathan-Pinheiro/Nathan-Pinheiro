@@ -53,7 +53,6 @@ A project i did in my first year of BUT where we had to make a virtual version o
 </p>
 
 
-
 <b>Description :</b>
 
 A project in wich we made four games : 
@@ -69,6 +68,21 @@ We also made the games playable against IAs with 3 differents difficulty levels.
 <b>Use :</b>
 - Python
 
-## <b>Personal Projects :</b>
+# <b>Personal Projects :</b>
+
+## <b>Chess game :</b>
+
+<p align="center">
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183760854311763988/Capture_decran_2023-09-15_090428.png?ex=65898234&is=65770d34&hm=6ca574e82891c12d9b8d292b9b5a1eed68e89aec5f97d71ac08ae476ce9562f9&" width="75%"></a>
+</p>
 
 
+<b>Description :</b>
+
+I recreated a chess game that allow playing a chess game against a friend in local.
+
+<br>
+
+<b>Use :</b>
+- Java
+- JavaFX (UI)
