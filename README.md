@@ -10,22 +10,38 @@ PINHEIRO Nathan, 18 years old
 <br>
 Hi ! I'm a french student in computer sciences.
 
-# 📖 Education
+# <b>📖 Education</b>
 
-### Baccalauréat - 2018
+### <b>BUT - 2021-2023</b>
+A 3 years degree in computer science. Curently in second year
+
+IUT du Limousin : Limoges 87000, France
+
+### <b>Baccalauréat - 2018</b>
 
 Baccalauréat with Maths and Physics spécialities. 
 Earned with hight honors
 
-Lycée Pierre et Marie Curie : Châteauroux 36 000, France
+Lycée Pierre et Marie Curie : Châteauroux 36000, France
 
-### BUT - 2021-2023
-A 3 years degree in computer science. Curently in second year
+# <b>📂 Projects</b>
 
-IUT du Limousin : Limoges 87 000, France
+Here, I put all of my projects !
 
-# 📂 Projects
+# Scolar Projects :
 
-## Scolar Projects :
+## <b>Orchard :</b>
 
-## Personal Projects :
+A project i did in my first year of BUT where we had to make a virtual version of the child's game Orchard.
+
+This project is made in Java, with the library JavaFX to allows creating the UI.
+
+## <b>Multi-game app :</b>
+
+A project in wich we made four games.
+
+This project is made in python.
+
+## <b>Personal Projects :</b>
+
+
