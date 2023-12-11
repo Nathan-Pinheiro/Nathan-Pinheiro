@@ -12,14 +12,19 @@ Hi ! I'm a french student in computer sciences.
 
 # 📖 Education
 
-## Baccalauréat - Lycée Pierre et Marie Curie : Châteauroux 36 000, France
+### Baccalauréat - 2018
+
 Baccalauréat with Maths and Physics spécialities. 
 Earned with hight honors
 
-## BUT - IUT du Limousin : Limoges 87 000, France
+Lycée Pierre et Marie Curie : Châteauroux 36 000, France
+
+### BUT - 2021-2023
 A 3 years degree in computer science. Curently in second year
 
-# Projects
+IUT du Limousin : Limoges 87 000, France
+
+# 📂 Projects
 
 ## Scolar Projects :
 
