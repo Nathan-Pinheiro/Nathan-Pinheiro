@@ -6,7 +6,7 @@
 
 # 👨‍💻 Profile
 
-PINHEIRO Nathan, 18 years old
+PINHEIRO Nathan, 19 years old
 <br>
 Hi ! I'm a french student in computer sciences.
 
