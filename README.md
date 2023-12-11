@@ -17,9 +17,9 @@ A 3 years degree in computer science. Curently in second year
 
 IUT du Limousin : Limoges 87000, France
 
-### <b>Baccalauréat - 2018</b>
+### <b>Baccalauréat - 2021</b>
 
-Baccalauréat with Maths and Physics spécialities. 
+Baccalauréat with Maths and Physics spécialities, and advanced math option. 
 Earned with hight honors
 
 Lycée Pierre et Marie Curie : Châteauroux 36000, France
@@ -32,15 +32,38 @@ Here, I put all of my projects !
 
 ## <b>Orchard :</b>
 
+
+
+<p align="center">
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="100%"></a>
+</p>
+
+<b>Description :</b>
+
 A project i did in my first year of BUT where we had to make a virtual version of the child's game Orchard.
 
-This project is made in Java, with the library JavaFX to allows creating the UI.
+<br>
+
+<b>Use :</b>
+- Java
+- JavaFX (UI)
 
 ## <b>Multi-game app :</b>
 
-A project in wich we made four games.
+<b>Description :</b>
 
-This project is made in python.
+A project in wich we made four games : 
+- TicTacToe
+- Connect 4
+- A riddle game
+- A match game
+
+We also made the games playable against IAs with 3 differents difficulty levels.
+
+<br>
+
+<b>Use :</b>
+- Python
 
 ## <b>Personal Projects :</b>
 
