@@ -49,7 +49,7 @@ A project i did in my first year of BUT where we had to make a virtual version o
 ## <b>Multi-game app :</b>
 
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183759497756426251/Capture_decran_20230115_120423.png?ex=658980f1&is=65770bf1&hm=114ce6f302028d21bfbd928628b7adc4ad0b1f5891d9556a481dcbe0d964fb01&" width="100%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183759497756426251/Capture_decran_20230115_120423.png?ex=658980f1&is=65770bf1&hm=114ce6f302028d21bfbd928628b7adc4ad0b1f5891d9556a481dcbe0d964fb01&" width="75%"></a>
 </p>
 
 
