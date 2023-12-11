@@ -10,6 +10,17 @@ PINHEIRO Nathan, 18 years old
 <br>
 Hi ! I'm a french student in computer sciences.
 
+Computing langages :
+- Python
+- Java
+- HTML / CSS / JavaScript
+- PHP
+- C
+- C++
+- C#
+
+<br>
+
 # <b>📖 Education</b>
 
 ### <b>BUT - 2021-2023</b>
@@ -69,6 +80,23 @@ We also made the games playable against IAs with 3 differents difficulty levels.
 - Python
 
 # <b>Personal Projects :</b>
+
+## <b>Self learning TicTacToeBot :</b>
+
+<p align="center">
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183764573636010094/image.png?ex=658985ab&is=657710ab&hm=59d98159e3819aeb94620b898782e195477d40b925e591e9f09f40f34e5bcba4&" width="75%"></a>
+</p>
+
+<b>Description :</b>
+
+I made a self learning algorithm that learn how to play at TicTacToe. 
+
+<br>
+
+<b>Use :</b>
+- Python
+- Q-learning
+
 
 ## <b>Chess game :</b>
 
