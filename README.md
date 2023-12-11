@@ -1,16 +1,22 @@
-### Hi there 👋
+# Profile
 
-<!--
-**Nathan-Pinheiro/Nathan-Pinheiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PINHEIRO Nathan, 18 years old
 
-Here are some ideas to get you started:
+I'm a french student in computer sciences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+
+### Baccalauréat - Lycée Pierre et Marie Curie : Châteauroux 36 000, France
+Baccalauréat with Maths and Physics spécialities. 
+Earned with hight honors
+
+### BUT - IUT du Limousin : Limoges 87 000, France
+A 3 years degree in computer science. Curently in second year
+
+## Projects
+
+### Scolar Projects :
+
+### Personal Projects :
+
+## Contributing
