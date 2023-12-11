@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183714224841699348/PINHEIRONathanBanner.png?ex=658956c7&is=6576e1c7&hm=15890d305deadc553286be3c9b404dd789ea7ab044bf3a3bd35b6316c8b5522b&" width="100%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183719030973005864/PINHEIRONathanBanner.png?ex=65895b41&is=6576e641&hm=a77e8f55fc6c075642a2bd7e0f6bd6130059ebae4a44c3c250c2c5d276f2d3a3&" width="100%"></a>
 </p>
 
 <br>
