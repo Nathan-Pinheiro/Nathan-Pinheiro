@@ -22,19 +22,19 @@ Computing langages :
 
 # <b>📖 Education</b>
 
-### <b>BUT - 2021-2023</b>
+## <b>BUT - 2021-2023</b>
 A 3 years degree in computer science. Curently in second year
 
 IUT du Limousin : Limoges 87000, France
 
-### <b>Baccalauréat - 2021</b>
+## <b>Baccalauréat - 2021</b>
 
 Baccalauréat with Maths and Physics spécialities, and advanced math option. 
 Earned with hight honors
 
 Lycée Pierre et Marie Curie : Châteauroux 36000, France
 
-# <b>📂 Projects</b>
+ # <b>📂 Projects</b>
 
 Here, I put all of my projects !
 
