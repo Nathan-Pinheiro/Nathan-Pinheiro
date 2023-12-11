@@ -37,7 +37,7 @@ Lycée Pierre et Marie Curie : Châteauroux 36000, France
 
 # <b>📂 Projects</b>
 
-Here, I put all of my projects !
+Here I put all of my projects !
 
 # Scolar Projects :
 
