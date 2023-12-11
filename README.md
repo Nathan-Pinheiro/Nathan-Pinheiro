@@ -44,7 +44,7 @@ Here, I put all of my projects !
 ## <b>Orchard :</b>
 
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="75%"></a>
+	<a href="https://github.com/Nathan-Pinheiro/Jeu-du-verger/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="75%"></a>
 </p>
 
 <b>Description :</b>
@@ -84,7 +84,7 @@ We also made the games playable against IAs with 3 differents difficulty levels.
 ## <b>Self learning TicTacToeBot :</b>
 
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183764573636010094/image.png?ex=658985ab&is=657710ab&hm=59d98159e3819aeb94620b898782e195477d40b925e591e9f09f40f34e5bcba4&" width="75%"></a>
+	<a href="https://github.com/Nathan-Pinheiro/Self-learning-TicTacToe-IA/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183764573636010094/image.png?ex=658985ab&is=657710ab&hm=59d98159e3819aeb94620b898782e195477d40b925e591e9f09f40f34e5bcba4&" width="75%"></a>
 </p>
 
 <b>Description :</b>
