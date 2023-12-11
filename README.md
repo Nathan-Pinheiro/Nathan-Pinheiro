@@ -19,7 +19,6 @@ Computing langages :
 - C++
 - C#
 
-<br>
 
 # <b>📖 Education</b>
 
