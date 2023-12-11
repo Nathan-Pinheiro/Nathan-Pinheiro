@@ -38,7 +38,7 @@ Lycée Pierre et Marie Curie : Châteauroux 36000, France
 
 Here I put all of my projects !
 
-# <b>Personal Projects :</b>
+# <b>Personal projects :</b>
 
 ## <b>Self learning TicTacToeBot :</b>
 
@@ -75,7 +75,7 @@ I recreated a chess game that allow playing a chess game against a friend in loc
 - JavaFX (UI)
 
 
-# Scolar Projects :
+# Academic projects :
 
 ## <b>Orchard :</b>
 
