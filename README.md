@@ -57,11 +57,6 @@ A project i did in my first year of BUT where we had to make a virtual version o
 
 <br>
 
-<b>Use :</b>
-- Java
-- JavaFX (UI)
-- Junit
-
 ## <b>Multi-game app :</b>
 
 <p align="center">
@@ -81,9 +76,6 @@ We also made the games playable against AIs with 3 differents difficulty levels.
 
 <br>
 
-<b>Use :</b>
-- Python
-
 # <b>Personal Projects :</b>
 
 ## <b>Self learning TicTacToeBot :</b>
@@ -98,11 +90,6 @@ I made a self learning algorithm that learn how to play at TicTacToe.
 
 <br>
 
-<b>Use :</b>
-- Python
-- Q-learning
-
-
 ## <b>Chess game :</b>
 
 <p align="center">
@@ -116,6 +103,3 @@ I recreated a chess game that allow playing a chess game against a friend in loc
 
 <br>
 
-<b>Use :</b>
-- Java
-- JavaFX (UI)
