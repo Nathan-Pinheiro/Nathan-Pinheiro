@@ -45,6 +45,31 @@ Here, I put all of my projects !
 
 # Academic Projects :
 
+# <b>ConsAnilisys : (on going)</b>
+
+<p align="center">
+	<a href=" #"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="75%"></a>
+</p>
+
+<b>Description :</b>
+
+A project where i have to develop a database analisys web application for the company Legrand.
+
+<br>
+
+# <b>Colony wars : (on going)</b>
+
+<p align="center">
+	<a href=" #"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="75%"></a>
+</p>
+
+<b>Description :</b>
+
+An Event project, where you can develop colonies by coding their behavior.
+Group of 4-5 will have to develop colonies for 1 week and then they will fight against eachothers
+
+<br>
+
 ## <b>Orchard :</b>
 
 <p align="center">
