@@ -1,4 +1,4 @@
-<p align="center">
+![image](https://github.com/Nathan-Pinheiro/Nathan-Pinheiro/assets/116799727/b93d8d3b-998e-4e27-a576-ff13899cec41)<p align="center">
 	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183719030973005864/PINHEIRONathanBanner.png?ex=65895b41&is=6576e641&hm=a77e8f55fc6c075642a2bd7e0f6bd6130059ebae4a44c3c250c2c5d276f2d3a3&" width="100%"></a>
 </p>
 
@@ -60,12 +60,12 @@ A project where i have to develop a database analisys web application for the co
 # <b>Undercover : (on going)</b>
 
 <p align="center">
-	<a href=" #"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183758479526203443/image.png?ex=65897ffe&is=65770afe&hm=fa369db8161806e1d34d80c76db2e77e2052e5a94b55f62a543933cbc8e1f217&" width="75%"></a>
+	<a href=" #"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1209035982368935936/image.png?ex=65e57580&is=65d30080&hm=a35e14c1df4a881579afc51c321383a34cd3e94a99c647d3d073d21f00a03274&" width="75%"></a>
 </p>
 
 <b>Description :</b>
 
-A web multiplayer web game where the players will try to discover who's the traitor among us.
+A web multiplayer game using websocket (socket.io) where the players will try to discover who's the traitor among us.
 
 <br>
 
