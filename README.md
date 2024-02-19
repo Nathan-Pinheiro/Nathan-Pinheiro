@@ -1,4 +1,4 @@
-![image](https://github.com/Nathan-Pinheiro/Nathan-Pinheiro/assets/116799727/b93d8d3b-998e-4e27-a576-ff13899cec41)<p align="center">
+<p align="center">
 	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183719030973005864/PINHEIRONathanBanner.png?ex=65895b41&is=6576e641&hm=a77e8f55fc6c075642a2bd7e0f6bd6130059ebae4a44c3c250c2c5d276f2d3a3&" width="100%"></a>
 </p>
 
