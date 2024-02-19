@@ -54,6 +54,7 @@ Here, I put all of my projects !
 <b>Description :</b>
 
 A project where i have to develop a database analisys web application for the company Legrand.
+The project is not public because of the privacy of the datas of the company.
 
 <br>
 
