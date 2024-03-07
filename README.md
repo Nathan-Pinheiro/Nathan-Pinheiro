@@ -48,7 +48,7 @@ Here, I put all of my projects !
 # <b>ConsAnilisys : (on going)</b>
 
 <p align="center">
-	<a href=" #"><img src="https://media.discordapp.net/attachments/968221685025210441/1209038030523076668/90fd7426-8470-4f40-9f13-69138a1dffce.png?ex=65e57769&is=65d30269&hm=6bd10ad94da9cf7a780a0fc460874de31f445945592f18eae2add825aac73039&=&format=webp&quality=lossless&width=1177&height=662" width="75%"></a>
+	<a href=" #"><img src="https://i.ibb.co/fn1gn80/consanalisis.png" width="75%"></a>
 </p>
 
 <b>Description :</b>
@@ -85,7 +85,7 @@ A project i did in my first year of BUT where we had to make a virtual version o
 ## <b>Multi-game app :</b>
 
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183759497756426251/Capture_decran_20230115_120423.png?ex=658980f1&is=65770bf1&hm=114ce6f302028d21bfbd928628b7adc4ad0b1f5891d9556a481dcbe0d964fb01&" width="75%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://i.ibb.co/4M7jBkf/p4.png" width="75%"></a>
 </p>
 
 
@@ -118,7 +118,7 @@ I made a self learning algorithm that learn how to play at TicTacToe.
 ## <b>Chess game :</b>
 
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://cdn.discordapp.com/attachments/968221685025210441/1183760854311763988/Capture_decran_2023-09-15_090428.png?ex=65898234&is=65770d34&hm=6ca574e82891c12d9b8d292b9b5a1eed68e89aec5f97d71ac08ae476ce9562f9&" width="75%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://i.ibb.co/85GxvGw/chess.png" width="75%"></a>
 </p>
 
 
