@@ -106,7 +106,7 @@ We also made the games playable against AIs with 3 differents difficulty levels.
 ## <b>Self learning TicTacToeBot :</b>
 
 <p align="center">
-	<a href="https://i.ibb.co/sVgXzdG/tictactoebot.png" width="75%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://i.ibb.co/sVgXzdG/tictactoebot.png" width="75%"></a>
 </p>
 
 <b>Description :</b>
