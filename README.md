@@ -1,5 +1,5 @@
 <p align="center">
-	<a href="http://nathanpinheiro.atwebpages.com/"><img src="https://ibb.co/r01gVym" width="100%"></a>
+	<a href="http://nathanpinheiro.atwebpages.com/"><img src="[https://ibb.co/r01gVym](https://i.ibb.co/kBWptcx/banner.png)" width="100%"></a>
 </p>
 
 <br>
