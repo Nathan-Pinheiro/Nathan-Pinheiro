@@ -62,18 +62,6 @@ The project is not public because of the privacy of the datas of the company.
 
 <br>
 
-# <b>Undercover : (on going)</b>
-
-<p align="center">
-	<a href="https://github.com/Nathan-Pinheiro/undercover"><img src="https://i.ibb.co/jMRhTdT/undercover.png" width="75%"></a>
-</p>
-
-<b>Description :</b>
-
-A web multiplayer game using websocket (socket.io) where the players will try to discover who's the traitor among us.
-
-<br>
-
 ## <b>Orchard :</b>
 
 <p align="center">
