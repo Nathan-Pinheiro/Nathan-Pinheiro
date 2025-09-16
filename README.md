@@ -6,26 +6,30 @@
 
 # 👨‍💻 Profile
 
-PINHEIRO Nathan, 20 years old
+PINHEIRO Nathan, 21 years old
 <br>
-Hi ! I'm a french student in computer sciences.
+Hi ! I'm a french student majoring in computer science.
 
 Computing langages :
 - Python
 - Java
 - HTML / CSS / JavaScript
 - SQL
-- C
-- C++
-- C#
+- C / C++ / C#
 
 <br>
 
 # <b>📖 Education</b>
 
-## <b>BUT - 2021-2023</b>
+## <b>Master’s degree in Computer Science - 2024-now</b>
 
-A 3 years degree in computer science. Curently in second year
+A 3 years majoring in computer science. Curently in second year
+
+Université de Tours : Tours 37000, France
+
+## <b>BUT - 2022-2024</b>
+
+A 2 years degree in computer science.
 
 IUT du Limousin : Limoges 87000, France
 
